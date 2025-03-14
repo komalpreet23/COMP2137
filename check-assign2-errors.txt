@@ -1,0 +1,19 @@
+--2025-03-13 23:53:30--  https://github.com/zonzorp/COMP2137/raw/main/makecontainers.sh
+Resolving github.com (github.com)... 140.82.114.4
+Connecting to github.com (github.com)|140.82.114.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://raw.githubusercontent.com/zonzorp/COMP2137/main/makecontainers.sh [following]
+--2025-03-13 23:53:30--  https://raw.githubusercontent.com/zonzorp/COMP2137/main/makecontainers.sh
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.111.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15446 (15K) [text/plain]
+Saving to: ‘/home/komal/makecontainers.sh’
+
+     0K .......... .....                                      100% 14.0M=0.001s
+
+2025-03-13 23:53:30 (14.0 MB/s) - ‘/home/komal/makecontainers.sh’ saved [15446/15446]
+
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.
+dpkg-preconfigure: unable to re-open stdin: No such file or directory
+assignment2.sh: Permission denied
